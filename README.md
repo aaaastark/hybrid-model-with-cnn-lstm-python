@@ -1,6 +1,13 @@
 # Hybrid Model with CNN and LSTM for VMD dataset using Python
 
 ## VMD: Video and Music Data (Dataset)
+#### API that used in this Project:
+- keras
+- sklearn
+- tensorflow
+- matplotlib
+- pandas
+- numpy
 
 #### Dataset VMD:
 ![download-1](https://user-images.githubusercontent.com/74346775/176511453-586201b3-304c-49e5-ad29-cf89d1f3018e.PNG)
