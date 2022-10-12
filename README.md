@@ -21,7 +21,6 @@
 ![download-3](https://user-images.githubusercontent.com/74346775/176511464-b874bb99-cc41-441d-a6d4-49664db24d0f.PNG)
 
 
-
 #### Plot the Model (Training and validation loss) and (Training and validation accuracy)
 ![download-4](https://user-images.githubusercontent.com/74346775/176511526-1ae1943b-225b-46d8-b95d-94e6efc66306.PNG)
 ![download-5](https://user-images.githubusercontent.com/74346775/176511539-5d638ab1-a781-45ff-809e-8485747584fa.PNG)
